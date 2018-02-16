@@ -7,6 +7,8 @@ public class HelloWorld {
 		
 		ExampleClass ec = new ExampleClass();
 		ec.myMethod1();
+		
+		
 
 	}
 
